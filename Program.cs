@@ -32,3 +32,4 @@ namespace ConsoleApplication
         }
     }
 }
+//to run this enter dotnet run "p" or "c" followed by the two arguments needed for paypal or cc charge as listed above

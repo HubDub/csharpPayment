@@ -1,0 +1,1 @@
+This was a live coding at NSS to learn more about command line apps that take input. 
